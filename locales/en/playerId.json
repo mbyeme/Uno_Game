@@ -1,24 +1,24 @@
 {
-  "loading": "",
-  "waiting-player": "",
-  "you": "",
-  "link": "",
-  "players": "",
-  "start": "",
-  "copied": "",
-  "copy-link": "",
-  "yell-one": "",
+  "loading": "Cargando la página....",
+  "waiting-player": "Waiting for player",
+  "you": " (vos)",
+  "link": "Link para compartir:",
+  "players": "Jugadores:",
+  "start": "Empezar",
+  "copied": "Copiado!",
+  "copy-link": "Click para copiar link",
+  "yell-one": "UNO!! gritó: ",
   "wild-options": {
-    "red": "",
-    "yellow": "",
-    "green": "",
-    "blue": ""
+    "red": "Rojo",
+    "yellow": "Amarillo",
+    "green": "Verde",
+    "blue": "Azul"
   },
   "player-options": {
-    "pass": ""
+    "pass": "PASO"
   },
   "winner-board": {
-    "winner": "",
-    "replay": ""
+    "winner": "Ganó el jugador: ",
+    "replay": "Jugar de nuevo"  
   }
 }
